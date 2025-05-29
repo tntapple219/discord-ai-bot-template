@@ -33,7 +33,7 @@ Follow these steps to get your AI chatbot up and running!
 
 1.  **Clone the repository** (or download the `bot.py` file and create a `.env` file manually):
     ```bash
-    git clone [https://github.com/tntapple219/discord-ai-bot-template.git](https://github.com/tntapple219/discord-ai-bot-template.git)
+    git clone https://github.com/tntapple219/discord-ai-bot-template.git
     cd discord-ai-bot-template
     ```
 
